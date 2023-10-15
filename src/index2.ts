@@ -6,3 +6,14 @@
 let sales = 123_456_789;
 let course = "typescript";
 let is_published = true;
+
+
+//anytype in typescript - avoid using any type of variable
+let level;
+level = 1;
+level = 'a'
+
+//we havent set this parameter explicietly
+// function render(document){
+//     console.log(document);
+// }
