@@ -1,4 +1,5 @@
 //enum -- list of related constants
+//C# and java
 
 // const small = 1;
 // const medium = 2;
