@@ -17,3 +17,5 @@ level = 'a'
 // function render(document){
 //     console.log(document);
 // }
+
+//This behavior can be disabled by enabling noImplicitAny as an option in a TypeScript's project tsconfig.json
