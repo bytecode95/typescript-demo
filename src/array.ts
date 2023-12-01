@@ -2,7 +2,7 @@ let number = [1,2,4,"6"];
 
 //javascript arrays are dynamic and each array can be consisted in different types of data
 
-let numbers = [1,3,5];
+let numbers12 = [1,3,5];
 let anyarray:number[] = [];
 anyarray[0] = 1;
 anyarray[1] = 2;
