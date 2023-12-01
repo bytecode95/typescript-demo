@@ -24,7 +24,7 @@ console.log(person.age);
 interface Car {
     make: string;
     model: string;
-    year?: number;
+    year?: number; //conditionally give properties to object
     readonly vin: string;
 }
 
@@ -34,3 +34,14 @@ const myCar: Car = {
     year: 2020,
     vin: "ABCGFD"
 }
+
+//using type alias
+type Point = {
+    x: number;
+    y: number;
+  };
+  
+  const point: Point = {
+    x: 1,
+    y: 2,
+  };
